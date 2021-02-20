@@ -7,7 +7,7 @@
 SimpPlot(x)
 }
 \arguments{
-\item{x}{An x value from 0 ot 50 that will return a plot according to the equation}
+\item{x}{An x value from 0 to 50 that will return a plot of a single point corresponding to the x and y values}
 }
 \value{
 A plot of x vs y

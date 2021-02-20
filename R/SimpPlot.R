@@ -9,5 +9,5 @@
 #' x <- 0:50; SimpPlot(x)
 SimpPlot <- function(x){
   y <- 0.03 + 0.05*x + 0.02*x^2
-  plot(x~y, col = "blue", lwd = 2)
+  plot(y~x, col = "blue", lwd = 2)
 }
