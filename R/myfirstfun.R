@@ -7,6 +7,6 @@
 #'
 #' @examples
 #' y <- 1:10; myfirstfun(y)
-mtfirstfun <- function(x){
+myfirstfun <- function(x){
   x^2
 }

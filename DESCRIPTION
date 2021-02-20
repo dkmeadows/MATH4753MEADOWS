@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/dkmeadows/MATH4753MEADOWS
 BugReports: https://github.com/dkmeadows/MATH4753MEADOWS/issues
+RoxygenNote: 7.1.1
