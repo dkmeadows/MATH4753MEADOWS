@@ -1,6 +1,6 @@
 #' @title Simple Scatter Plot with set Equation
 #'
-#' @param x An x value from 0 ot 50 that will return a plot according to the equation
+#' @param x An x value from 0 to 50 that will return a plot of a single point corresponding to the x and y values
 #'
 #' @return A plot of x vs y
 #' @export
